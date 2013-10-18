@@ -40,7 +40,7 @@ if __name__ == '__main__':
 
     # Make use of default configuration file. This can be replaced
     # by your own configuration file, view existing for syntax.
-    confpath = '/Users/vaibhav/Documents/workspace/pp_api_utils_ppapiaccess/ppapiaccess/apiaccess.cfg'
+    confpath = ''
     if not confpath:
         from ppapiaccess import default_confpath
         confpath = default_confpath
