@@ -1,0 +1,3 @@
+include *.txt
+include ppapiaccess\apiaccess.cfg
+prune .hg

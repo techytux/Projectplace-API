@@ -1,0 +1,2 @@
+0.1.0, 2013-05-14 -- Initial release.
+0.1.1, 2013-08-xx -- Minor change in apiacess.cfg to simplify setup
